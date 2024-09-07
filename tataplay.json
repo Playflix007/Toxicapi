@@ -1,0 +1,383 @@
+{
+    "title": "TATA-PLAY | KEY-API",
+    "developers": "Arturo, Strange, Ghost",
+    "channel": "https://dsc.gg/babel-in",
+    "data": [
+        {
+            "id": "1",
+            "title": "INDIA TODAY",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",
+            "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/babel.mpd",
+            "genre": "News",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELIzzq/eiViTuy4qf9tS9KM4gKbxtgY=",
+            "kid": "b233ceaf-de89-5893-bb2e-2a7fdb52f4a3",
+            "hex_keys": "b233ceafde895893bb2e2a7fdb52f4a3:9435134cf38d4adf6a7b15026e0e349c",
+            "licence1": "b233ceafde895893bb2e2a7fdb52f4a3",
+            "licence2": "9435134cf38d4adf6a7b15026e0e349c",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "lDUTTPONSt9qexUCbg40nA",
+                        "kid": "sjPOr96JWJO7Lip/21L0ow"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "2",
+            "title": "Travel XP - 4K",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6-j5f5oyqw-v2/imageContent-6-j5f5oyqw-m2.png",
+            "initialUrl": "https://delta47tatasky.akamaized.net/out/i/298431.mpd",
+            "genre": "Lifestyle",
+            "psshSet": "None",
+            "kid": "----",
+            "hex_keys": null,
+            "licence1": "",
+            "licence2": null,
+            "channel_key": "null"
+        },
+        {
+            "id": "3",
+            "title": "Ruposhi Bangla",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/babel.mpd",
+            "genre": "Bengali",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEM+X4F45P1gohI3ky0qi2P449JDxtgY=",
+            "kid": "cf97e05e-393f-5828-848d-e4cb4aa2d8fe",
+            "hex_keys": "cf97e05e393f5828848de4cb4aa2d8fe:07ec8539af2f0e8c79c2c145c0866fb2",
+            "licence1": "cf97e05e393f5828848de4cb4aa2d8fe",
+            "licence2": "07ec8539af2f0e8c79c2c145c0866fb2",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "B+yFOa8vDox5wsFFwIZvsg",
+                        "kid": "z5fgXjk/WCiEjeTLSqLY/g"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "6",
+            "title": "News18 Gujarati",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/babel.mpd",
+            "genre": "Gujarati",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEP8WC3/kTF9nlwUG8f4/vZE49JDxtgY=",
+            "kid": "ff160b7f-e44c-5f67-9705-06f1fe3fbd91",
+            "hex_keys": "ff160b7fe44c5f67970506f1fe3fbd91:b85eca62275567ccad73fbf07ad6ae40",
+            "licence1": "ff160b7fe44c5f67970506f1fe3fbd91",
+            "licence2": "b85eca62275567ccad73fbf07ad6ae40",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "uF7KYidVZ8ytc/vwetauQA",
+                        "kid": "/xYLf+RMX2eXBQbx/j+9kQ"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "7",
+            "title": "B4U Movies",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/babel.mpd",
+            "genre": "Movies",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMbz9wzHWVXOo+QfmyyqZQQ49JDxtgY=",
+            "kid": "c6f3f70c-c759-55ce-a3e4-1f9b2caa6504",
+            "hex_keys": "c6f3f70cc75955cea3e41f9b2caa6504:042722f4446e04e4aa54b3105b622b97",
+            "licence1": "c6f3f70cc75955cea3e41f9b2caa6504",
+            "licence2": "042722f4446e04e4aa54b3105b622b97",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "BCci9ERuBOSqVLMQW2Irlw",
+                        "kid": "xvP3DMdZVc6j5B+bLKplBA"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "8",
+            "title": "STAR Plus HD",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/babel.mpd",
+            "genre": "Entertainment",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMFk0dPkbFtQqNdNuir9svc4/J7xtgY=",
+            "kid": "c164d1d3-e46c-5b50-a8d7-4dba2afdb2f7",
+            "hex_keys": "c164d1d3e46c5b50a8d74dba2afdb2f7:3a5b357dae5a031506d72a18215c2725",
+            "licence1": "c164d1d3e46c5b50a8d74dba2afdb2f7",
+            "licence2": "3a5b357dae5a031506d72a18215c2725",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "Ols1fa5aAxUG1yoYIVwnJQ",
+                        "kid": "wWTR0+RsW1Co1026Kv2y9w"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "9",
+            "title": "B4U Music",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/babel.mpd",
+            "genre": "Music",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELEMV941NFixiiiB5RK3Yt049JDxtgY=",
+            "kid": "b10c57de-3534-58b1-8a28-81e512b762dd",
+            "hex_keys": "b10c57de353458b18a2881e512b762dd:9af96952447c36e05c92741d32252ce1",
+            "licence1": "b10c57de353458b18a2881e512b762dd",
+            "licence2": "9af96952447c36e05c92741d32252ce1",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "mvlpUkR8NuBcknQdMiUs4Q",
+                        "kid": "sQxX3jU0WLGKKIHlErdi3Q"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "10",
+            "title": "Flowers",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/babel.mpd",
+            "genre": "Malayalam",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJ2u2Rk4vFqJoo280ok3QO849JDxtgY=",
+            "kid": "9daed919-38bc-5a89-a28d-bcd2893740ef",
+            "hex_keys": "9daed91938bc5a89a28dbcd2893740ef:9d4f1a5fd6c96cc3096142d7ec82d05f",
+            "licence1": "9daed91938bc5a89a28dbcd2893740ef",
+            "licence2": "9d4f1a5fd6c96cc3096142d7ec82d05f",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "nU8aX9bJbMMJYULX7ILQXw",
+                        "kid": "na7ZGTi8WomijbzSiTdA7w"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "11",
+            "title": "TV9 Telugu",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/babel.mpd",
+            "genre": "Telugu",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAW2eqHAe1wlqgmVCyvaocY49JDxtgY=",
+            "kid": "05b67aa1-c07b-5c25-aa09-950b2bdaa1c6",
+            "hex_keys": "05b67aa1c07b5c25aa09950b2bdaa1c6:2bf245a99ad47f41e14f0c5f187fcbfc",
+            "licence1": "05b67aa1c07b5c25aa09950b2bdaa1c6",
+            "licence2": "2bf245a99ad47f41e14f0c5f187fcbfc",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "K/JFqZrUf0HhTwxfGH/L/A",
+                        "kid": "BbZ6ocB7XCWqCZULK9qhxg"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "12",
+            "title": "Zee Anmol Cinema 2",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v3/ZACINE_Thumbnail.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/babel.mpd",
+            "genre": "Hindi",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECxDyEAWkVlgsZ71z3gSQ+w49JDxtgY=",
+            "kid": "2c43c840-1691-5960-b19e-f5cf781243ec",
+            "hex_keys": "2c43c84016915960b19ef5cf781243ec:75b845fb68027f9d27058e6ef60cbdc6",
+            "licence1": "2c43c84016915960b19ef5cf781243ec",
+            "licence2": "75b845fb68027f9d27058e6ef60cbdc6",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "dbhF+2gCf50nBY5u9gy9xg",
+                        "kid": "LEPIQBaRWWCxnvXPeBJD7A"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "13",
+            "title": "India News Haryana",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/babel.mpd",
+            "genre": "News",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELTyZd1stVwevNNSntmffoA49JDxtgY=",
+            "kid": "b4f265dd-6cb5-5c1e-bcd3-529ed99f7e80",
+            "hex_keys": "b4f265dd6cb55c1ebcd3529ed99f7e80:3b939f71dac620f23c9887d0f617e992",
+            "licence1": "b4f265dd6cb55c1ebcd3529ed99f7e80",
+            "licence2": "3b939f71dac620f23c9887d0f617e992",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "O5OfcdrGIPI8mIfQ9hfpkg",
+                        "kid": "tPJl3Wy1XB6801Ke2Z9+gA"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "14",
+            "title": "India News Rajasthan",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png",
+            "initialUrl": "https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/babel.mpd",
+            "genre": "News",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECNf8ccWZlcvrO1ylndjFa449JDxtgY=",
+            "kid": "235ff1c7-1666-572f-aced-7296776315ae",
+            "hex_keys": "235ff1c71666572faced7296776315ae:34d3effc9a4a5f1c1373559d35bbe4a6",
+            "licence1": "235ff1c71666572faced7296776315ae",
+            "licence2": "34d3effc9a4a5f1c1373559d35bbe4a6",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "NNPv/JpKXxwTc1WdNbvkpg",
+                        "kid": "I1/xxxZmVy+s7XKWd2MVrg"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "15",
+            "title": "SET HD",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",
+            "initialUrl": "https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/babel.mpd",
+            "genre": "Entertainment",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPMr/nw7El5KqVDNAraBsiQ40JzxtgY=",
+            "kid": "f32bfe7c-3b12-5e4a-a950-cd02b681b224",
+            "hex_keys": "f32bfe7c3b125e4aa950cd02b681b224:4d5a7aa337fb3ea725d8476d059fbf3d",
+            "licence1": "f32bfe7c3b125e4aa950cd02b681b224",
+            "licence2": "4d5a7aa337fb3ea725d8476d059fbf3d",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "TVp6ozf7Pqcl2EdtBZ+/PQ",
+                        "kid": "8yv+fDsSXkqpUM0CtoGyJA"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "17",
+            "title": "Mastiii",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",
+            "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/babel.mpd",
+            "genre": "Music",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFcLGXC+OVrSqIZ7Tov0p4c48InxtgY=",
+            "kid": "570b1970-be39-5ad2-a886-7b4e8bf4a787",
+            "hex_keys": "570b1970be395ad2a8867b4e8bf4a787:f1c7af5ba9b93a0a1b30b0472a18510a",
+            "licence1": "570b1970be395ad2a8867b4e8bf4a787",
+            "licence2": "f1c7af5ba9b93a0a1b30b0472a18510a",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "8cevW6m5OgobMLBHKhhRCg",
+                        "kid": "VwsZcL45WtKohntOi/Snhw"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "20",
+            "title": "Zee Bihar Jharkhand",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png",
+            "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/babel.mpd",
+            "genre": "Hindi",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGqgSWnD01baszIsL+guyQQ4gKbxtgY=",
+            "kid": "6aa04969-c3d3-56da-b332-2c2fe82ec904",
+            "hex_keys": "6aa04969c3d356dab3322c2fe82ec904:820937394d00bc0ebedad13dd6533e25",
+            "licence1": "6aa04969c3d356dab3322c2fe82ec904",
+            "licence2": "820937394d00bc0ebedad13dd6533e25",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "ggk3OU0AvA6+2tE91lM+JQ",
+                        "kid": "aqBJacPTVtqzMiwv6C7JBA"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "22",
+            "title": "News World India",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png",
+            "initialUrl": "https://delta31tatasky.akamaized.net/out/i/57073.mpd",
+            "genre": "Lifestyle",
+            "psshSet": "None",
+            "kid": "----",
+            "hex_keys": null,
+            "licence1": "",
+            "licence2": null,
+            "channel_key": "null"
+        },
+        {
+            "id": "23",
+            "title": "News18 Bangla",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png",
+            "initialUrl": "https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/babel.mpd",
+            "genre": "Bengali",
+            "psshSet": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBqT/uX1Tl9fkmo76GtczpQ48InxtgY=",
+            "kid": "1a93fee5-f54e-5f5f-926a-3be86b5cce94",
+            "hex_keys": "1a93fee5f54e5f5f926a3be86b5cce94:f263276e453739d00963c2a312667a87",
+            "licence1": "1a93fee5f54e5f5f926a3be86b5cce94",
+            "licence2": "f263276e453739d00963c2a312667a87",
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "8mMnbkU3OdAJY8KjEmZ6hw",
+                        "kid": "GpP+5fVOX1+Sajvoa1zOlA"
+                    }
+                ],
+                "type": "temporary"
+            }
+        },
+        {
+            "id": "24",
+            "title": "Star Sports 1 Hindi HD",
+            "time": "09/07/2024 07:05:56 PM",
+            "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/
